@@ -2,6 +2,8 @@
 
 A modern invoice generator web app runs locally on your machine and helps you to manage your client invoices.
 
+![Image](/art/image1.png)
+
 ## Some of it's features
  * Dashboard to see the overdue,paid and other type of payments
  * Client management : Add your clients with their details to later create a invoice.
